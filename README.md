@@ -10,7 +10,7 @@ Translation by @eris
 
 Web management by @starmaid
 
-Leggi qui: http://www.nickmasso.com/17776-italiano/
+Leggi qui: http://www.nickmasso.com/17776-italiano/ (Sì lo so i link sono tutti rotti. Li aggiusto appena ci arrivo!)
 
 Grafica italiana presa in prestito da https://mspfa.com/?s=21346
 
