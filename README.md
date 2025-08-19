@@ -6,7 +6,7 @@ permalink: /index.html
 
 An italian translation of the web story, 17776, by Jon Bois. 
 
-Translation by @eris
+Translation by @prismarcobaleno
 
 Web management by @starmaid
 
